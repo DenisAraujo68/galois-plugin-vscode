@@ -19,7 +19,7 @@ If you want to generate a new .vsix file check [here](https://code.visualstudio.
 
 With the extension installed, you should set the [Galois Autocompleter](https://github.com/galois-autocompleter/galois-autocompleter) API URL you want to use. 
 
-For setting the URL, just go to User Settings on your VSCode and search for Api Url. 
+For setting the URL, just go to User Settings on your VSCode (pressing <CTRL+,>) and search for "Galois". 
 
 ![Setting Galois Autocompleter URL](images/settings.png)
 
